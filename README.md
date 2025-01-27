@@ -37,6 +37,8 @@
     ```sh
     npm run autoref
     ```
+    Use my code : ``amwPfVbK``
+   
 4. Run the script:
     ```sh
     npm run start
